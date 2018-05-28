@@ -1,3 +1,3 @@
-# twibblerapi
+# Basic rest-api
 
-Rest-api used for testing frontend, nothing to see here move along.
+Backend for the pwa-demoproject, just a super simple rest-api built in spring with in-memory db. Won't be maintained.
